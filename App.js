@@ -19,6 +19,7 @@ import NewOrderScreen from './src/screens/Order/NewOrder/NewOrderScreen';
 const Tab = createBottomTabNavigator();
 const Stack = createNativeStackNavigator();
 
+
 export default function App() {
   return (
     <ClerkProvider
